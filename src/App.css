@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.container{
+  width: 450px;
+  height: 400px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  background-color: orange;
+}
+
+.count{
+  font-size: 36px;
+  margin: auto;
+
+}
+.btn{
+  display: flex;
+  gap: 23px;
+  padding: 22px;
+  color: black;
+  
+  font-size: medium;
+
+}
